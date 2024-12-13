@@ -7,3 +7,6 @@ scikit-learn
 flask
 nltk
 bs4
+tensorflow
+tensorboard
+streamlit
